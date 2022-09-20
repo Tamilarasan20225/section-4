@@ -1,0 +1,77 @@
+body {
+    margin:0;
+    padding: 0;
+}
+.main-4{
+    width:100%;
+    height:100%;
+    background-color:black;
+    box-sizing: border-box;
+    color:white;
+    text-align: center;
+    padding:5% 5% 10%;
+    position:relative;
+    overflow:hidden;
+    font-family:'Poppins', sans-serif;
+    
+}
+.main-content-4{
+    width:80%;
+    margin:0 auto;
+    background-color: rgba(76, 75, 75, 0.3);
+    backdrop-filter: blur(10px);
+    border-radius:10px;
+
+}
+.planet1-4{
+    width:17%;
+    position:absolute;
+    left:4%;
+    top:31%;
+}
+.planet2-4{
+    width:37%;
+    position:absolute;
+    top:32%;
+    right:-12%;
+}
+
+/* images */
+.planet-img1-4{
+    width:100%;
+    
+    
+    
+}
+.planet-img2-4{
+width:100%;
+}
+
+/* text */
+.green{
+    color:limegreen;
+
+}
+.title-4{
+    font-size: 1.7rem;
+    font-weight: bold;
+    padding-bottom: 4%;
+}
+.top-4{
+    font-size:1.7rem;
+    font-weight: bold;
+    color:limegreen;
+    padding-top:6%;
+    padding-bottom:1%;
+}
+.middle-4{
+    font-size: 1.3rem;
+    padding-bottom: 3%;
+    opacity:0.7;
+}
+.bottom-4{
+    font-size :1.1rem;
+    padding-bottom:8%;
+    line-height:1.7rem;
+   opacity:0.4;
+}
